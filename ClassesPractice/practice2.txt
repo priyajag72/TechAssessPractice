@@ -1,0 +1,13 @@
+Object: Priya Power Front Door
+
+Attributes:
+color: "Brown"
+material: "Oak wood"
+lockingMechanism = false
+numberOfPanes = 0
+
+Methods:
+changeColor: color = "White"
+changeMaterial: material = "Titanium metal"
+addLock: lockingMechanism = true
+addPanes: numberOfPanes = 1
