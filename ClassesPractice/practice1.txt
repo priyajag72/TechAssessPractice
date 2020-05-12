@@ -1,0 +1,13 @@
+Class: Door
+
+Attributes:
+color (string)
+material (string)
+lockingMechanism (boolean)
+numberOfPanes (integer)
+
+Methods:
+changeColor (changes the color attribute)
+changeMaterial (changes the material attribute)
+addLock (changes lockingMechanism attribute from default false to true)
+addPanes (adds +1 to default value of attribute numberOfPanes, default is 0)
