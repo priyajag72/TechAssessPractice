@@ -1,0 +1,13 @@
+Class: Volcano
+
+Attributes:
+height (float)
+radius (float)
+shape (string)
+volcanicStage (string)
+
+Methods:
+calculateVolume (multiplies the constant pi/3 by radius by radius by height)
+changeShape (changes the shape attribute)
+changeVolcanicStage (changes the volcanicStage attribute)
+removeHeight (subtracts entered value from height attribute default and reassigns new value)
