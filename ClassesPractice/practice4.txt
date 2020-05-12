@@ -1,0 +1,13 @@
+Object: Capulin Volcano
+
+Attributes:
+height = 8182
+radius = 6572.5
+shape = "cinder"
+volcanicStage = "extinct"
+
+Methods:
+calculateVolume: (pi/3) * height * radius * radius = 370125734888
+changeShape: shape = "sheild"
+changeVolcanicStage: volcanicStage = "dormant"
+removeHeight: height - 3.2 = 8178.8
